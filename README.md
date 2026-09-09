@@ -2,7 +2,7 @@
 
 Estudante de Inteligência Artificial na UFPE focado em Ciência de Dados, Python e Aprendizado de Máquina.
 
-##  Tecnologias & Ferramentas
+##   Tecnologias & Ferramentas
 - **Linguagens:** Python
 - **Ciência de Dados & ML:** Scikit-learn, Pandas, NumPy
 - **Ferramentas:** Git, GitHub 
