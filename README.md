@@ -16,16 +16,6 @@
 
 **Ferramentas:** Git, GitHub, VS Code
 
-## 🚀 Projetos em destaque
-
-### 🧠 PaperMind — Sistema RAG
-Sistema de perguntas e respostas sobre artigos científicos utilizando Python, LangChain, Sentence Transformers, FAISS e Groq API.
-
-### 🎬 CineBusca
-Aplicação de consulta de filmes desenvolvida em Python, com integração à API TMDB, backend em FastAPI e deploy no Render.
-
-### 📚 Chatbot Acadêmico com RAG (em desenvolvimento)
-Projeto colaborativo envolvendo processamento de documentos acadêmicos com OCRmyPDF, preparação de base vetorial com ChromaDB e versionamento com Git/GitHub.
 
 ## 📫 Contato
 
